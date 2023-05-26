@@ -1,11 +1,16 @@
 import React from "react";
-import { Nav, NavbarContainer } from "./Navbar.elements"; // Import the styles for component Nav
+import { Nav, NavbarContainer, NavLogo, NavIcon } from "./Navbar.elements"; // Import the styles for component Nav
 
 const Navbar = () => {
   return (
     <>
       <Nav>
-        <NavbarContainer>hello</NavbarContainer>
+        <NavbarContainer>
+          <NavLogo to="/">
+            <NavIcon />
+            ULTRA
+          </NavLogo>
+        </NavbarContainer>
       </Nav>
     </>
   );
