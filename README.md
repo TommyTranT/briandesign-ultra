@@ -8,5 +8,5 @@ https://www.youtube.com/watch?v=iP_HqoCuRI0
 
 # Styling
 - Each component is styled by styling each component seperately. We can style each tag directly while also importing global styles such as containers and buttons and tweak it per component.
-
-
+ 
+- Styled components is required to make the mobile menu open and close
