@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=iP_HqoCuRI0
-23:50
+30:09
 
 # Things to Install
 - Styled components: `npm i styled-components@5`
